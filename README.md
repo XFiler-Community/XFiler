@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://x-filer.com">
-    <img alt="X-Filer" width="200" heigth="200" src="https://github.com/egorozh/XFiler-Community/XFiler/blob/main/splash.png">
+    <img alt="X-Filer" width="200" heigth="200" src="https://github.com/XFiler-Community/XFiler/blob/main/splash.png">
   </a>
   <h1>X-Filer</h1>
   <p>
