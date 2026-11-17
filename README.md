@@ -47,7 +47,7 @@ repository, or write to [hello@x-filer.com](mailto:hello@x-filer.com).
   drag & drop and clipboard to and from Finder / Explorer, native shortcuts
   on each platform.
 - 🪟🍎 **One app for both platforms** — Windows 10/11 (x64, ARM64) and
-  macOS 12+ (Apple Silicon, Intel). AOT-compiled, no .NET runtime to install.
+  macOS 14+ (Apple Silicon, Intel). AOT-compiled, no .NET runtime to install.
 - 🔓 **Local files free, forever** — managing your own disks costs nothing.
   No ads.
 
